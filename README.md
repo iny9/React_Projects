@@ -102,8 +102,7 @@ Part 2, step 6.
 
 ### First-time use (same flow as before)
 1. **Years** → add a year (e.g. 2026/2027).
-2. **Users** → add Game Master, House Masters, Principal (use real e-mail addresses). Default password is
-   `12345678` unless you type another (min. 6 characters) – ask people to change it on the **Profile** tab.
+2. **Users** → add Game Master, House Masters, Principal (use real e-mail addresses). Insert the Default password – ask people to change it on the **Profile** tab.
 3. Game Master adds **Games** (choose the format), **Houses** (pick the house master), fixtures and results.
 4. House Masters add **Students**, then use **Entries** → tick the students (check boxes) → *Save selected entries*.
 5. Principal and Game Master add their signature on the **Signatures** tab (upload a photo or draw it).
